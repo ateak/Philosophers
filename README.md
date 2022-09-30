@@ -1,5 +1,4 @@
 # Philosophers
-In this project we will learn the basics of threading a process. We will see how to create threads and we will discover mutexes and semaphores.
 
 You will find two folders with makefiles in the repository. Run make in both folders. The program philo meets requirements of the mandatory part. Here we work with threads and mutexes. The program philo_bonus meets requirements of the bonus part. Here we work with processes and semaphores. 
 
